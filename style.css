@@ -1,0 +1,36 @@
+#currency-converter {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input, select, button {
+  margin: 10px;
+  padding: 5px 10px;
+  font-size: 16px;
+}
+
+#result {
+  font-weight: bold;
+  color: rgb(255, 222, 4);
+  background-color: blue;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 10px auto;
+  width: fit-content;
+  
+}
+
+button {
+  background: linear-gradient(to right, #007bff, #00bfff);
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+body{
+  background-image: url('cur.jpg');
+  margin-top: 250px;
+}
